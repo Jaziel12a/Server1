@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-20 22:36:11 +0000",
       "minecraft:frozen_river": "2024-12-20 22:10:07 +0000",
       "minecraft:cherry_grove": "2024-12-18 15:07:25 +0000",
       "minecraft:sunflower_plains": "2024-12-18 15:17:24 +0000",
@@ -91,6 +92,7 @@
       "cooked_beef": "2024-12-20 14:03:48 +0000",
       "porkchop": "2024-12-20 14:29:32 +0000",
       "bread": "2024-12-20 14:47:12 +0000",
+      "golden_apple": "2024-12-20 22:32:43 +0000",
       "quark:crab_leg": "2024-12-18 15:02:16 +0000"
     },
     "done": false
@@ -124,10 +126,12 @@
       "minecraft:skeleton": "2024-12-19 19:50:44 +0000",
       "minecraft:spider": "2024-12-20 14:28:07 +0000",
       "minecraft:creeper": "2024-12-19 19:51:00 +0000",
+      "minecraft:phantom": "2024-12-20 22:31:13 +0000",
       "minecraft:husk": "2024-12-20 22:22:56 +0000",
       "minecraft:cave_spider": "2024-12-20 15:36:31 +0000",
       "minecraft:zombie": "2024-12-19 19:50:57 +0000",
-      "minecraft:drowned": "2024-12-20 22:03:49 +0000"
+      "minecraft:drowned": "2024-12-20 22:03:49 +0000",
+      "minecraft:zombie_villager": "2024-12-20 22:37:15 +0000"
     },
     "done": false
   },
@@ -278,6 +282,18 @@
   "ancient_elements:hidden_in_the_skies": {
     "criteria": {
       "hidden_in_the_skies": "2024-12-20 22:15:51 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2024-12-20 22:54:15 +0000"
+    },
+    "done": true
+  },
+  "cnc:wendigoadvancement": {
+    "criteria": {
+      "wendigoadvancement_0": "2024-12-20 22:40:12 +0000"
     },
     "done": true
   },

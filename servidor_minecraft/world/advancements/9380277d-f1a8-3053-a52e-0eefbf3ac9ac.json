@@ -318,6 +318,12 @@
     },
     "done": true
   },
+  "cnc:wechugeadvancement": {
+    "criteria": {
+      "wechugeadvancement_0": "2024-12-20 22:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2024-12-20 21:49:41 +0000"
@@ -348,6 +354,12 @@
     },
     "done": true
   },
+  "cnc:wendigo_killed": {
+    "criteria": {
+      "wendigo_killed_0": "2024-12-20 22:41:08 +0000"
+    },
+    "done": true
+  },
   "cnc:black_bearadvancement": {
     "criteria": {
       "black_bearadvancement_0": "2024-12-20 22:15:06 +0000"
@@ -357,6 +369,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-20 21:12:46 +0000"
+    },
+    "done": true
+  },
+  "cnc:wolverineadvancement": {
+    "criteria": {
+      "wolverineadvancement_0": "2024-12-20 23:02:18 +0000"
     },
     "done": true
   },
