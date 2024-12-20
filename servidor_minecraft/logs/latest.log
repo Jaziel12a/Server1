@@ -1231,3 +1231,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 22:59:02.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx drowned
 [20Dec2024 23:02:18.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has made the advancement [Not The Hero!]
 [20Dec2024 23:02:35.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camichamba777> MANOOO
+[20Dec2024 23:20:53.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported Osettx to -932.500000, 59.500000, -2465.500000]
+[20Dec2024 23:21:04.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[20Dec2024 23:21:07.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[20Dec2024 23:21:16.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[20Dec2024 23:22:26.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 was shot by Osettx
+[20Dec2024 23:22:33.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 23:23:22.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[20Dec2024 23:23:25.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[20Dec2024 23:23:32.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[20Dec2024 23:25:46.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 moved wrongly!
+[20Dec2024 23:25:50.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Osettx moved too quickly! 8.91880353136753,-1.1661092609382138,-4.961457003497003
+[20Dec2024 23:26:00.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Osettx moved too quickly! 10.162397443163286,1.2491870787446828,-0.3997724330645269
+[20Dec2024 23:26:21.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has reached the goal [Pray to the Goddess]
+[20Dec2024 23:26:22.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[20Dec2024 23:26:26.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[20Dec2024 23:26:54.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[20Dec2024 23:27:18.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has made the advancement [Incendium]
+[20Dec2024 23:27:18.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has made the advancement [We Need to Go Deeper]
+[20Dec2024 23:27:23.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8959ms or 179 ticks behind
+[20Dec2024 23:27:25.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has made the advancement [Incendium]
+[20Dec2024 23:27:25.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has made the advancement [We Need to Go Deeper]
+[20Dec2024 23:28:13.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=108, z=-48} BlockPos{x=105, y=106, z=-49}
+[20Dec2024 23:28:13.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=108, z=-48} BlockPos{x=105, y=106, z=-49}
+[20Dec2024 23:28:13.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=108, z=-48} BlockPos{x=105, y=106, z=-49}
+[20Dec2024 23:28:13.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=108, z=-48} BlockPos{x=105, y=106, z=-49}
+[20Dec2024 23:28:13.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=108, z=-48} BlockPos{x=105, y=106, z=-49}
+[20Dec2024 23:28:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
