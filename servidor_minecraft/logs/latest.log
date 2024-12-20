@@ -1098,3 +1098,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 16:08:34.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/172030, l='ServerLevel[world]', x=755.61, y=65.50, z=-483.73] died, message: 'Fisherman was slain by Zombie'
 [20Dec2024 16:09:39.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [20Dec2024 16:09:42.164] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 16:11:50.917] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/174644, l='ServerLevel[world]', x=652.50, y=78.00, z=-624.50]
+[20Dec2024 16:12:50.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/174864, l='ServerLevel[world]', x=573.50, y=71.00, z=-619.50]
+[20Dec2024 16:13:03.065] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/174981, l='ServerLevel[world]', x=593.50, y=70.00, z=-616.50]
+[20Dec2024 16:13:22.322] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/172045, l='ServerLevel[world]', x=715.70, y=66.00, z=-512.70] died, message: 'Librarian was slain by Zombie'
+[20Dec2024 16:13:29.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/171995, l='ServerLevel[world]', x=713.46, y=64.00, z=-496.31] died, message: 'Fisherman was slain by Zombie'
+[20Dec2024 16:14:32.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 moved too quickly! 4.094557008188417,0.5813359922251635,9.29949797382801
+[20Dec2024 16:14:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has made the advancement [Peace Was Never An Option]
+[20Dec2024 16:14:59.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 moved wrongly!
+[20Dec2024 16:15:27.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 moved too quickly! -8.551800039518525,2.4561406480733083,4.6954907284759315
+[20Dec2024 16:15:54.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 lost connection: Timed out
+[20Dec2024 16:15:54.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 left the game
