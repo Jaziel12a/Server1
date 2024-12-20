@@ -1143,3 +1143,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 18:20:25.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/257077, l='ServerLevel[world]', x=1030.90, y=67.00, z=132.55] died, message: 'Cartographer was slain by Zombie Villager'
 [20Dec2024 18:21:12.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 lost connection: Disconnected
 [20Dec2024 18:21:12.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 left the game
+[20Dec2024 18:21:49.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camichamba777[/127.188.49.4:48783] logged in with entity id 270997 at (1016.0133820854845, 69.0, 106.29420257118291)
+[20Dec2024 18:21:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 joined the game
+[20Dec2024 18:21:49.086] [Server thread/INFO] [Jade/]: Syncing config to camichamba777 (9380277d-f1a8-3053-a52e-0eefbf3ac9ac)
+[20Dec2024 18:22:48.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has made the advancement [All Along The Watchtower]
+[20Dec2024 18:23:07.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/271008, l='ServerLevel[world]', x=1013.49, y=64.00, z=161.70] died, message: 'Unemployed was slain by Zombie Villager'
+[20Dec2024 18:23:25.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camichamba777> t
+[20Dec2024 18:26:50.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/271007, l='ServerLevel[world]', x=1013.55, y=64.06, z=162.30] died, message: 'Librarian was slain by Zombie Villager'
+[20Dec2024 18:27:33.471] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/271178, l='ServerLevel[world]', x=1013.47, y=64.06, z=162.30] died, message: 'Fisherman was slain by Zombie Villager'
+[20Dec2024 18:29:05.315] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/302011, l='ServerLevel[world]', x=602.50, y=73.00, z=-598.50]
+[20Dec2024 18:31:21.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/303661, l='ServerLevel[world]', x=737.50, y=68.00, z=-438.93] died, message: 'Unemployed was slain by camichamba777'
