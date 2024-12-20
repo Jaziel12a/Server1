@@ -1123,3 +1123,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 17:38:13.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/179100, l='ServerLevel[world]', x=730.60, y=64.00, z=-552.27] died, message: 'Unemployed was slain by Zombie'
 [20Dec2024 17:38:45.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 lost connection: Disconnected
 [20Dec2024 17:38:45.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 left the game
+[20Dec2024 18:08:27.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camichamba777[/127.188.49.4:55061] logged in with entity id 184222 at (667.5, 75.0, -480.5)
+[20Dec2024 18:08:27.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 joined the game
+[20Dec2024 18:08:27.344] [Server thread/INFO] [Jade/]: Syncing config to camichamba777 (9380277d-f1a8-3053-a52e-0eefbf3ac9ac)
+[20Dec2024 18:08:41.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/184237, l='ServerLevel[world]', x=670.73, y=70.00, z=-482.96] died, message: 'Mason was slain by camichamba777'
+[20Dec2024 18:09:25.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has made the advancement [The Parrots and the Bats]
