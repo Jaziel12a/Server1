@@ -1109,3 +1109,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 16:15:27.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 moved too quickly! -8.551800039518525,2.4561406480733083,4.6954907284759315
 [20Dec2024 16:15:54.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 lost connection: Timed out
 [20Dec2024 16:15:54.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 left the game
+[20Dec2024 17:33:05.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camichamba777[/127.188.49.4:40717] logged in with entity id 178665 at (630.9499968524008, 60.10654921358387, -462.91500849837263)
+[20Dec2024 17:33:05.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 joined the game
+[20Dec2024 17:33:05.855] [Server thread/INFO] [Jade/]: Syncing config to camichamba777 (9380277d-f1a8-3053-a52e-0eefbf3ac9ac)
+[20Dec2024 17:33:15.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 drowned
+[20Dec2024 17:35:20.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 17:35:20.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 17:35:36.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has made the advancement [What a Deal!]
+[20Dec2024 17:36:54.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[20Dec2024 17:37:17.516] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/181167, l='ServerLevel[world]', x=627.50, y=74.00, z=-616.50]
+[20Dec2024 17:37:26.265] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/181199, l='ServerLevel[world]', x=614.50, y=69.00, z=-618.50]
+[20Dec2024 17:37:51.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 17:38:13.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/179100, l='ServerLevel[world]', x=730.60, y=64.00, z=-552.27] died, message: 'Unemployed was slain by Zombie'
+[20Dec2024 17:38:45.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 lost connection: Disconnected
+[20Dec2024 17:38:45.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 left the game
