@@ -1032,3 +1032,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 15:26:03.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported Osettx to 619.500000, 99.500000, -416.500000]
 [20Dec2024 15:29:10.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [20Dec2024 15:29:36.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 tried to swim in lava
+[20Dec2024 15:31:32.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[20Dec2024 15:32:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[20Dec2024 15:32:26.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has reached the goal [Pray to the Goddess]
+[20Dec2024 15:35:36.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[20Dec2024 15:35:41.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camichamba777> re
+[20Dec2024 15:35:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[20Dec2024 15:35:56.514] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/130419, l='ServerLevel[world]', x=629.50, y=74.00, z=-617.50]
+[20Dec2024 15:36:24.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 was killed by Witch using magic
+[20Dec2024 15:36:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:37:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx was shot by Skeleton
+[20Dec2024 15:37:27.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported Osettx to 801.500000, -18.500000, -661.500000]
+[20Dec2024 15:37:49.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 walked into the danger zone due to Skeleton
+[20Dec2024 15:37:54.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx hit the ground too hard
+[20Dec2024 15:37:58.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported Osettx to 824.500000, -38.500000, -662.500000]
+[20Dec2024 15:38:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:38:40.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has made the advancement [Diamonds!]
+[20Dec2024 15:40:40.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 was blown up by Creeper
+[20Dec2024 15:40:49.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:41:03.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx was shot by Skeleton
+[20Dec2024 15:41:06.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported Osettx to 893.500000, -13.500000, -577.500000]
+[20Dec2024 15:42:47.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 was shot by Skeleton
+[20Dec2024 15:42:53.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx was shot by Skeleton
+[20Dec2024 15:42:56.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported Osettx to 752.500000, 33.500000, -505.500000]
+[20Dec2024 15:43:01.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:43:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 was shot by Skeleton
+[20Dec2024 15:43:44.216] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/146741, l='ServerLevel[world]', x=647.50, y=78.00, z=-648.50]
+[20Dec2024 15:43:57.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx was shot by Skeleton
+[20Dec2024 15:44:06.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: The difficulty has been set to Easy]
+[20Dec2024 15:44:11.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported Osettx to 725.500000, 32.500000, -516.500000]
+[20Dec2024 15:44:48.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:45:59.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[20Dec2024 15:46:07.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[20Dec2024 15:46:07.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has reached the goal [Hammer Time!]
+[20Dec2024 15:47:27.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 was slain by Osettx
+[20Dec2024 15:47:33.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:47:50.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camichamba777> se me apago el audifonp
+[20Dec2024 15:48:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:51:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camichamba777> se me apago el microfono
+[20Dec2024 15:52:02.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx was slain by camichamba777
+[20Dec2024 15:52:04.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 15:52:08.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported Osettx to camichamba777]
+[20Dec2024 15:52:27.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 was slain by Osettx
+[20Dec2024 15:52:33.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:54:30.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 fell from a high place
+[20Dec2024 15:54:37.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:55:30.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camichamba777> TPPPP
+[20Dec2024 15:55:42.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 15:56:12.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Osettx lost connection: Disconnected
+[20Dec2024 15:56:12.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx left the game
+[20Dec2024 15:56:25.818] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/165863, l='ServerLevel[world]', x=675.50, y=72.00, z=-661.50]
+[20Dec2024 15:59:17.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/137608, l='ServerLevel[world]', x=742.34, y=66.00, z=-433.12] died, message: 'Unemployed was slain by camichamba777'
