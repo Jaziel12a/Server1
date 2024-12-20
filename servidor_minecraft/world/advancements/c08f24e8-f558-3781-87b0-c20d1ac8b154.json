@@ -63,6 +63,7 @@
       "minecraft:river": "2024-12-19 19:53:22 +0000",
       "minecraft:swamp": "2024-12-18 15:09:30 +0000",
       "minecraft:forest": "2024-12-20 21:35:22 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-20 21:56:03 +0000",
       "minecraft:savanna": "2024-12-20 14:33:15 +0000",
       "minecraft:plains": "2024-12-18 15:20:15 +0000"
     },
@@ -255,9 +256,21 @@
     },
     "done": true
   },
+  "ancient_elements:fluffy": {
+    "criteria": {
+      "fluffy": "2024-12-20 21:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-20 21:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-20 21:53:13 +0000"
     },
     "done": true
   },

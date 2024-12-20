@@ -744,3 +744,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 21:44:42.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has made the advancement [Cover Me with Diamonds]
 [20Dec2024 21:44:42.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has made the advancement [Ice Bucket Challenge]
 [20Dec2024 21:44:50.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported camichamba777 to Osettx]
+[20Dec2024 21:48:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has made the advancement [Fluffy!]
+[20Dec2024 21:49:13.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Applied effect Levitation to camichamba777]
+[20Dec2024 21:49:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Removed every effect from camichamba777]
+[20Dec2024 21:49:41.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Applied effect Levitation to camichamba777]
+[20Dec2024 21:49:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has completed the challenge [Great View From Up Here]
+[20Dec2024 21:50:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Removed every effect from camichamba777]
+[20Dec2024 21:50:36.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 fell from a high place
+[20Dec2024 21:51:10.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[20Dec2024 21:51:15.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[20Dec2024 21:51:46.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[20Dec2024 21:51:50.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[20Dec2024 21:53:06.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Teleported Osettx to camichamba777]
+[20Dec2024 21:53:13.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has made the advancement [Take Aim]
+[20Dec2024 21:56:09.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has made the advancement [Big Bad]
+[20Dec2024 21:56:14.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has made the advancement [Big Bad]
+[20Dec2024 21:56:33.074] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos BlockPos{x=309, y=67, z=-1115}
+[20Dec2024 21:56:35.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Osettx moved too quickly! -9.578125682562302,-2.1661092609382138,-1.987691453255593
+[20Dec2024 21:56:35.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camichamba777 moved too quickly! -9.82513383879973,-0.6002587330193023,-2.1526011562150416
+[20Dec2024 21:56:35.160] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=309, y=67, z=-1115} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[20Dec2024 21:56:35.160] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=309, y=67, z=-1115}
+[20Dec2024 21:56:50.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camichamba777 has made the advancement [Elk-a-holic]
+[20Dec2024 21:56:52.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx has made the advancement [Elk-a-holic]

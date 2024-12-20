@@ -60,6 +60,7 @@
       "minecraft:beach": "2024-12-20 16:12:43 +0000",
       "minecraft:river": "2024-12-20 14:13:14 +0000",
       "minecraft:forest": "2024-12-20 18:18:51 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-20 21:55:50 +0000",
       "minecraft:savanna": "2024-12-20 14:36:04 +0000",
       "minecraft:plains": "2024-12-20 14:12:04 +0000"
     },
@@ -155,6 +156,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-20 14:16:31 +0000",
       "cooked_beef": "2024-12-20 14:16:22 +0000",
+      "apple": "2024-12-20 21:54:38 +0000",
       "pumpkin_pie": "2024-12-20 14:47:39 +0000",
       "bread": "2024-12-20 15:28:06 +0000",
       "golden_apple": "2024-12-20 15:28:38 +0000",
@@ -281,6 +283,18 @@
   "dungeons_arise:find_illager_windmill": {
     "criteria": {
       "location0": "2024-12-20 18:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-12-20 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "cnc:greywolfadvancement": {
+    "criteria": {
+      "greywolfadvancement_0": "2024-12-20 21:56:09 +0000"
     },
     "done": true
   },
