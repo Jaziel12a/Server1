@@ -279,9 +279,21 @@
     },
     "done": true
   },
+  "ancient_elements:very_hot": {
+    "criteria": {
+      "very_hot": "2024-12-20 23:36:15 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:hidden_in_the_skies": {
     "criteria": {
       "hidden_in_the_skies": "2024-12-20 22:15:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2024-12-20 23:34:36 +0000"
     },
     "done": true
   },
@@ -291,9 +303,48 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-20 23:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-20 23:27:24 +0000",
+      "minecraft:warped_forest": "2024-12-20 23:45:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-20 23:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-20 23:27:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-12-20 23:28:29 +0000",
+      "incendium:quartz_flats": "2024-12-20 23:34:36 +0000",
+      "incendium:inverted_forest": "2024-12-20 23:32:35 +0000"
+    },
+    "done": false
+  },
   "cnc:wendigoadvancement": {
     "criteria": {
       "wendigoadvancement_0": "2024-12-20 22:40:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-12-20 23:28:29 +0000"
     },
     "done": true
   },
@@ -312,6 +363,24 @@
   "cnc:howleradvancement": {
     "criteria": {
       "howleradvancement_0": "2024-12-20 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-20 23:27:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-12-20 23:28:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2024-12-20 23:34:36 +0000"
     },
     "done": true
   },
