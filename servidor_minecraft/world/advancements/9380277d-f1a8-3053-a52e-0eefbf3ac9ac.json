@@ -55,11 +55,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-20 22:14:14 +0000",
+      "minecraft:frozen_river": "2024-12-20 22:09:56 +0000",
       "minecraft:cherry_grove": "2024-12-20 13:43:33 +0000",
       "minecraft:savanna_plateau": "2024-12-20 13:44:09 +0000",
       "minecraft:beach": "2024-12-20 16:12:43 +0000",
       "minecraft:river": "2024-12-20 14:13:14 +0000",
+      "minecraft:snowy_plains": "2024-12-20 22:09:59 +0000",
+      "minecraft:snowy_taiga": "2024-12-20 22:09:22 +0000",
+      "minecraft:cold_ocean": "2024-12-20 22:06:19 +0000",
       "minecraft:forest": "2024-12-20 18:18:51 +0000",
+      "minecraft:ocean": "2024-12-20 21:58:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-20 21:55:50 +0000",
       "minecraft:savanna": "2024-12-20 14:36:04 +0000",
       "minecraft:plains": "2024-12-20 14:12:04 +0000"
@@ -100,9 +106,11 @@
     "criteria": {
       "minecraft:pillager": "2024-12-20 14:46:24 +0000",
       "minecraft:skeleton": "2024-12-20 14:07:39 +0000",
+      "minecraft:guardian": "2024-12-20 22:00:22 +0000",
       "minecraft:vindicator": "2024-12-20 20:38:38 +0000",
       "minecraft:spider": "2024-12-20 16:07:57 +0000",
       "minecraft:witch": "2024-12-20 20:41:12 +0000",
+      "minecraft:husk": "2024-12-20 22:26:10 +0000",
       "minecraft:enderman": "2024-12-20 16:11:57 +0000",
       "minecraft:zombie": "2024-12-20 14:32:15 +0000",
       "minecraft:drowned": "2024-12-20 21:08:18 +0000",
@@ -286,6 +294,30 @@
     },
     "done": true
   },
+  "cnc:chupacabraadvancement": {
+    "criteria": {
+      "chupacabraadvancement_0": "2024-12-20 22:08:32 +0000"
+    },
+    "done": true
+  },
+  "cnc:squonkadvancement": {
+    "criteria": {
+      "squonkadvancement_0": "2024-12-20 22:24:59 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:hidden_in_the_skies": {
+    "criteria": {
+      "hidden_in_the_skies": "2024-12-20 22:15:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-20 21:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2024-12-20 21:49:41 +0000"
@@ -295,6 +327,12 @@
   "cnc:greywolfadvancement": {
     "criteria": {
       "greywolfadvancement_0": "2024-12-20 21:56:09 +0000"
+    },
+    "done": true
+  },
+  "cnc:howleradvancement": {
+    "criteria": {
+      "howleradvancement_0": "2024-12-20 22:07:26 +0000"
     },
     "done": true
   },
@@ -310,9 +348,21 @@
     },
     "done": true
   },
+  "cnc:black_bearadvancement": {
+    "criteria": {
+      "black_bearadvancement_0": "2024-12-20 22:15:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-20 21:12:46 +0000"
+    },
+    "done": true
+  },
+  "cnc:elkadvancement": {
+    "criteria": {
+      "elkadvancement_0": "2024-12-20 21:56:50 +0000"
     },
     "done": true
   },
