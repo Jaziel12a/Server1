@@ -105,6 +105,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-20 14:46:24 +0000",
+      "minecraft:blaze": "2024-12-20 23:51:54 +0000",
       "minecraft:skeleton": "2024-12-20 14:07:39 +0000",
       "minecraft:guardian": "2024-12-20 22:00:22 +0000",
       "minecraft:vindicator": "2024-12-20 20:38:38 +0000",
@@ -164,6 +165,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-20 14:16:31 +0000",
       "cooked_beef": "2024-12-20 14:16:22 +0000",
+      "beef": "2024-12-21 00:13:39 +0000",
       "apple": "2024-12-20 21:54:38 +0000",
       "pumpkin_pie": "2024-12-20 14:47:39 +0000",
       "bread": "2024-12-20 15:28:06 +0000",
@@ -345,6 +347,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-20 23:27:26 +0000",
+      "minecraft:basalt_deltas": "2024-12-20 23:56:34 +0000",
       "minecraft:warped_forest": "2024-12-20 23:44:37 +0000"
     },
     "done": false
@@ -364,7 +367,8 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2024-12-20 23:31:00 +0000",
-      "incendium:quartz_flats": "2024-12-20 23:34:21 +0000"
+      "incendium:quartz_flats": "2024-12-20 23:34:21 +0000",
+      "incendium:inverted_forest": "2024-12-20 23:46:41 +0000"
     },
     "done": false
   },
@@ -428,6 +432,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-20 23:47:54 +0000"
+    },
+    "done": true
+  },
   "cnc:black_bearadvancement": {
     "criteria": {
       "black_bearadvancement_0": "2024-12-20 22:15:06 +0000"
@@ -449,6 +459,12 @@
   "cnc:elkadvancement": {
     "criteria": {
       "elkadvancement_0": "2024-12-20 21:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-20 23:51:55 +0000"
     },
     "done": true
   },
